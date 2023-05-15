@@ -1,0 +1,18 @@
+/* глобальні стилі */
+body{
+    font-family: 'Montserrat','serif';
+    color: #1f373d;
+}
+a{
+    text-decoration: none;
+    color: #1f373d;
+}
+/* header */
+.header{
+    display: flex; 
+    width: 1042px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 16px;
+}
